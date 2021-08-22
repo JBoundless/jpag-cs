@@ -1,9 +1,11 @@
-h1, p {
-  font-family: Lato;
-}
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 #header {
   text-align: center;
+}
+
+body {
+  font-family: Lato;
 }
 
 .App {
