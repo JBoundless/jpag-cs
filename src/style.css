@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Lato;
+}
+
+#header {
+  text-align: center;
+}
+
+.App {
+  background-color: black;
+  color: white;
+}
