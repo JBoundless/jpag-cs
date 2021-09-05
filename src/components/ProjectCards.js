@@ -9,7 +9,7 @@ export default function ProjectCards() {
   <Card style={{backgroundColor: 'black'}}>
     <Card.Body style={{border: '3px solid #3A3B3C'}}>
       <Card.Title>HTML/CSS Projects</Card.Title>
-      <Card.Link href="https://jordan-pagkalinawan.vercel.app/NBADV.html">NBA Shooting Splits Data Vizualization</Card.Link>
+      <Card.Link href="https://nbadv.vercel.app">NBA Shooting Splits Data Vizualization</Card.Link>
       <Card.Text>
       I made charts on Datawrapper that showed the 20 best field-goal, three-point, and free-throw percentage leaders.
     </Card.Text>
